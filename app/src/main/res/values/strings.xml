@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BLE Study</string>
+
+    <string name="message_permission_rationale">自 Android 6.0 开始需要打开位置权限才可以搜索到蓝牙设备:\n\n%1$s</string>
+    <string name="message_permission_always_failed">程序需要下列权限, 请在设置中打开:\n\n%1$s</string>
+
+    <string name="dialog_open">打开</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_tips">提示</string>
+    <string name="dialog_set">设置</string>
+    <string name="dialog_open_no">不打开</string>
+</resources>
